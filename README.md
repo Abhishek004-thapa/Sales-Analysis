@@ -39,6 +39,10 @@ This project mainly focuses on small part of Machine Learning i.e Exploratory Da
 
 link: https://www.youtube.com/channel/UC7kCwIjNR9wECvxJ8jbn0fQ
 
+## `Uploaded Explanation Video of This Project`
+
+link: https://www.youtube.com/watch?v=1vqtBf53OmU&t=1106s
+
 ## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
 ### Your one like gives us MOTIVATION.
 
