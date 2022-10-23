@@ -2,13 +2,15 @@
 
 # CodeClause INTERN PROJECTS ON DataScience
 
-# Sales-Analysis
+# `Sales-Analysis`
 
-## Abstract :
+## `Abstract :`
 
 This project mainly focuses on small part of Machine Learning i.e Exploratory Data Analysis(EDA). It deals with tools and techniques for the analysis of our sales datasets so that appropriate bussiness strategy can be implemented and gain as much as profit in future. Main feature of this project is that i have implemented APRIORI ALGORITHM using APYORI Library for frequent Itemsets Generation and Association Rule Mining.
 
-## STEPS :
+## `DATASETS`: https://www.kaggle.com/code/knightbearr/analysis-sales-data-knightbearr/data
+
+## `STEPS :`
 1) Importing Libraries and Loading Datasets.
 
 2) Data Preprocessing & Preparing Datasets.
@@ -35,7 +37,7 @@ This project mainly focuses on small part of Machine Learning i.e Exploratory Da
 
 ### YOUTUBE CHANNEL -- 64bitCODING
 
-link https://www.youtube.com/channel/UC7kCwIjNR9wECvxJ8jbn0fQ
+link: https://www.youtube.com/channel/UC7kCwIjNR9wECvxJ8jbn0fQ
 
 ## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
 ### Your one like gives us MOTIVATION.
