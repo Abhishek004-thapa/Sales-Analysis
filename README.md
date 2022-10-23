@@ -1,3 +1,7 @@
+## This project took lots of effort. Don't forget to tap `STAR`⭐ on top-right corner.
+
+# CodeClause INTERN PROJECTS ON DataScience
+
 # Sales-Analysis
 
 ## Abstract :
@@ -28,3 +32,16 @@ This project mainly focuses on small part of Machine Learning i.e Exploratory Da
 
 ### Best Feature: Market Basket Analysis using Apriori Algorithm & Rule Mining
 #### JUST HAVE A CUP OF COFFEE IN FRONT OF YOU AND EXOLORE 😊 !!!
+
+### YOUTUBE CHANNEL -- 64bitCODING
+
+link https://www.youtube.com/channel/UC7kCwIjNR9wECvxJ8jbn0fQ
+
+## Please DO VISIT and HIT LIKE 👍 and SUSCRIBE 🔔 BUTTON.
+### Your one like gives us MOTIVATION.
+
+If any doubts,
+
+### CONTACT ME ON:
+
+linkedin --> https://www.linkedin.com/in/abhishek-thapa-b9a733199/
